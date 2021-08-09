@@ -1,2 +1,2 @@
-# Ex0-OOP
-The first assignment in OOP
+# Undirected graph-OOP
+The first assignment in OOP course- unweighted and undirected graph.
